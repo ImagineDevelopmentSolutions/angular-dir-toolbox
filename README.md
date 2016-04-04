@@ -1,4 +1,4 @@
-# angular-dir-toolbox
+# ids-angular-toolbox
 ##### [AngularJS](http://angularjs.org/) directives for your every day Angular developer.
 
 ### Table of Contents
@@ -32,12 +32,12 @@ Installation is easy as there are minimal dependencies - only AngularJS and UI R
 #### Install with NPM
 
 ```sh
-$ npm install angular-dir-toolbox
+$ npm install ids-angular-toolbox
 ```
 
 #### Manual download
 
-After downloading dependencies (or better yet, referencing them from your favorite CDN) the angular-dir-toolbox.js and angular-dir-toolbox.min.js files under the dist directory are all you need.
+After downloading dependencies (or better yet, referencing them from your favorite CDN) the ids-angular-toolbox.js and ids-angular-toolbox.min.js files under the dist directory are all you need.
 
 ### Adding dependency to your project
 
@@ -60,7 +60,7 @@ Take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md)
 ## Need help?
 Need help using the Angular Dir Toolbox?
 
-* Ask a question in [StackOverflow](http://stackoverflow.com/) under the [angular-dir-toolbox](http://stackoverflow.com/questions/tagged/angular-dir-toolbox) tag.
+* Ask a question in [StackOverflow](http://stackoverflow.com/) under the [ids-angular-toolbox](http://stackoverflow.com/questions/tagged/ids-angular-toolbox) tag.
 * Open an issue in this repository.
 
 ## Found a bug?
